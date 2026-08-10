@@ -1,0 +1,24 @@
+# Local-only working docs (spec, runbooks, source images) — never published
+docs/local/
+
+# Hugo build output
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+.hugo_build.lock
+
+# .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+
+# Node (theme tooling)
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vs/
+.idea/

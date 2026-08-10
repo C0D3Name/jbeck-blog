@@ -1,0 +1,27 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Jonathan Beck"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  description = "Software engineer since 2007. Writing about .NET, Azure, AI architecture and benchmarking, and AI-assisted development pipelines."
+  copyright = "© 2026 Jonathan Beck · [Bitflection LLC](https://bitflection.com)"
+
+[params.author]
+  name = "Jonathan Beck"
+  email = "jonathan@bitflection.com"
+  image = "img/jonathan-beck.jpg"
+  imageQuality = 96
+  headline = "Software Engineer · .NET, Azure, AI Architecture"
+  bio = "Building software professionally since 2007. I work on .NET and Azure systems, AI architecture and benchmarking, and the pipelines that make AI-assisted development actually productive."
+  links = [
+    { email = "mailto:jonathan@bitflection.com" },
+    { github = "https://github.com/C0D3Name" },
+    { linkedin = "https://www.linkedin.com/in/jbeckme/" },
+    { x-twitter = "https://x.com/C0D3Name" },
+  ]
